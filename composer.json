@@ -1,0 +1,12 @@
+{
+  "name": "hxp/yii2-pay-wechat",
+  "description": "针对微信支付的类的封装",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "huxiaoping",
+      "email": "307701097@qq.com"
+    }
+  ]
+}
